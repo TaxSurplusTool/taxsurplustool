@@ -1,0 +1,7 @@
+{
+  "edition": "MASTER",
+  "latestVersion": "1.0.0.0",
+  "installerUrl": "https://taxsurplustool.github.io/taxsurplustool/master/TaxSurplusTool_Master_Setup.exe",
+  "sha256": "REPLACE_WITH_HASH",
+  "releaseNotes": "Initial release"
+}
